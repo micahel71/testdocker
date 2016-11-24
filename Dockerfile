@@ -1,2 +1,2 @@
-FROM coreos
+FROM alpine
 
