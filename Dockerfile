@@ -1,2 +1,2 @@
-FROM core-os
+FROM coreos
 
